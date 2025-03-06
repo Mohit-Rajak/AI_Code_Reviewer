@@ -40,7 +40,7 @@ The AI-Powered Code Reviewer is a web application that allows developers to subm
 - **Axios**: For making API requests to the backend.
 - **CSS**: Custom styles for a modern and responsive design.
 
-### Backend
+### BackEnd
 - **Express.js**: Node.js framework for building the backend server.
 - **Google Gemini AI**: For generating code reviews.
 - **CORS**: To enable cross-origin requests.
@@ -70,7 +70,7 @@ Open your browser and visit:
 http://localhost:5173
 ```
 
-### Backend Setup
+### BackEnd Setup
 Navigate to the backend folder:
 ```bash
 cd backend
