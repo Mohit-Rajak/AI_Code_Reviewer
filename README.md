@@ -19,6 +19,8 @@ The AI-Powered Code Reviewer is a MERN stack-based application designed to help 
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [Author]
+- [Thank You]
 
 ---
 
@@ -177,4 +179,12 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - **Google Gemini AI**: For providing the AI model for code review.
 - **React Community**: For creating amazing tools and libraries.
 
-This README provides a comprehensive guide to setting up, running, and contributing to the AI-Powered Code Reviewer project. Let me know if you need further assistance! 🚀
+## Author
+
+Mohit Rajak \
+Email: contact.mohitrajak022004@gmail.com \
+LinkedIn : https://www.linkedin.com/in/Mohit-Rajak/
+
+## Thank You
+
+Thank you for exploring AI-PoweredBy Code Reviewer! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 🚀
